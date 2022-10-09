@@ -1,0 +1,687 @@
+State,Type,ID
+AL,Amenity,38
+AR,Amenity,38
+AZ,Amenity,804
+CA,Amenity,5762
+CO,Amenity,85
+CT,Amenity,87
+DC,Amenity,792
+DE,Amenity,5
+FL,Amenity,4462
+GA,Amenity,71
+IA,Amenity,14
+ID,Amenity,49
+IL,Amenity,530
+IN,Amenity,27
+KS,Amenity,4
+KY,Amenity,120
+LA,Amenity,1081
+MA,Amenity,123
+MD,Amenity,382
+ME,Amenity,2
+MI,Amenity,309
+MN,Amenity,117
+MO,Amenity,85
+MS,Amenity,5
+MT,Amenity,69
+NC,Amenity,1181
+ND,Amenity,0
+NE,Amenity,4
+NH,Amenity,7
+NJ,Amenity,146
+NM,Amenity,9
+NV,Amenity,26
+NY,Amenity,2344
+OH,Amenity,312
+OK,Amenity,116
+OR,Amenity,1082
+PA,Amenity,1730
+RI,Amenity,3
+SC,Amenity,340
+SD,Amenity,1
+TN,Amenity,807
+TX,Amenity,1884
+UT,Amenity,320
+VA,Amenity,1444
+VT,Amenity,0
+WA,Amenity,1102
+WI,Amenity,49
+WV,Amenity,22
+WY,Amenity,0
+AL,Bump,0
+AR,Bump,0
+AZ,Bump,288
+CA,Bump,384
+CO,Bump,3
+CT,Bump,0
+DC,Bump,3
+DE,Bump,0
+FL,Bump,38
+GA,Bump,0
+IA,Bump,0
+ID,Bump,0
+IL,Bump,0
+IN,Bump,0
+KS,Bump,0
+KY,Bump,0
+LA,Bump,0
+MA,Bump,1
+MD,Bump,10
+ME,Bump,0
+MI,Bump,1
+MN,Bump,0
+MO,Bump,0
+MS,Bump,0
+MT,Bump,0
+NC,Bump,29
+ND,Bump,0
+NE,Bump,0
+NH,Bump,0
+NJ,Bump,1
+NM,Bump,0
+NV,Bump,0
+NY,Bump,10
+OH,Bump,3
+OK,Bump,26
+OR,Bump,96
+PA,Bump,16
+RI,Bump,0
+SC,Bump,4
+SD,Bump,0
+TN,Bump,0
+TX,Bump,56
+UT,Bump,1
+VA,Bump,6
+VT,Bump,0
+WA,Bump,45
+WI,Bump,0
+WV,Bump,0
+WY,Bump,0
+AL,Crossing,153
+AR,Crossing,639
+AZ,Crossing,13650
+CA,Crossing,31257
+CO,Crossing,1835
+CT,Crossing,537
+DC,Crossing,1523
+DE,Crossing,225
+FL,Crossing,62441
+GA,Crossing,1095
+IA,Crossing,144
+ID,Crossing,1806
+IL,Crossing,3781
+IN,Crossing,306
+KS,Crossing,69
+KY,Crossing,306
+LA,Crossing,2143
+MA,Crossing,353
+MD,Crossing,3017
+ME,Crossing,14
+MI,Crossing,1770
+MN,Crossing,3575
+MO,Crossing,743
+MS,Crossing,63
+MT,Crossing,239
+NC,Crossing,11075
+ND,Crossing,26
+NE,Crossing,168
+NH,Crossing,22
+NJ,Crossing,1531
+NM,Crossing,24
+NV,Crossing,529
+NY,Crossing,7205
+OH,Crossing,1625
+OK,Crossing,3407
+OR,Crossing,6099
+PA,Crossing,7109
+RI,Crossing,27
+SC,Crossing,3248
+SD,Crossing,14
+TN,Crossing,4315
+TX,Crossing,8704
+UT,Crossing,3707
+VA,Crossing,6010
+VT,Crossing,6
+WA,Crossing,3002
+WI,Crossing,445
+WV,Crossing,226
+WY,Crossing,4
+AL,Junction,2304
+AR,Junction,1235
+AZ,Junction,3693
+CA,Junction,97057
+CO,Junction,2795
+CT,Junction,4031
+DC,Junction,1272
+DE,Junction,362
+FL,Junction,20395
+GA,Junction,7933
+IA,Junction,922
+ID,Junction,436
+IL,Junction,5656
+IN,Junction,2358
+KS,Junction,1921
+KY,Junction,1289
+LA,Junction,2985
+MA,Junction,1313
+MD,Junction,7767
+ME,Junction,190
+MI,Junction,8153
+MN,Junction,11083
+MO,Junction,7121
+MS,Junction,882
+MT,Junction,683
+NC,Junction,7162
+ND,Junction,181
+NE,Junction,225
+NH,Junction,226
+NJ,Junction,6848
+NM,Junction,376
+NV,Junction,631
+NY,Junction,17027
+OH,Junction,2927
+OK,Junction,658
+OR,Junction,7282
+PA,Junction,8050
+RI,Junction,798
+SC,Junction,4276
+SD,Junction,5
+TN,Junction,5883
+TX,Junction,17222
+UT,Junction,2478
+VA,Junction,8733
+VT,Junction,13
+WA,Junction,3317
+WI,Junction,1401
+WV,Junction,857
+WY,Junction,93
+AL,Give Way,121
+AR,Give Way,6
+AZ,Give Way,317
+CA,Give Way,713
+CO,Give Way,132
+CT,Give Way,8
+DC,Give Way,7
+DE,Give Way,3
+FL,Give Way,310
+GA,Give Way,121
+IA,Give Way,19
+ID,Give Way,23
+IL,Give Way,0
+IN,Give Way,46
+KS,Give Way,18
+KY,Give Way,5
+LA,Give Way,11
+MA,Give Way,19
+MD,Give Way,82
+ME,Give Way,33
+MI,Give Way,1
+MN,Give Way,422
+MO,Give Way,230
+MS,Give Way,74
+MT,Give Way,0
+NC,Give Way,586
+ND,Give Way,5
+NE,Give Way,5
+NH,Give Way,6
+NJ,Give Way,35
+NM,Give Way,0
+NV,Give Way,7
+NY,Give Way,429
+OH,Give Way,9
+OK,Give Way,97
+OR,Give Way,99
+PA,Give Way,1145
+RI,Give Way,1
+SC,Give Way,52
+SD,Give Way,0
+TN,Give Way,42
+TX,Give Way,844
+UT,Give Way,2
+VA,Give Way,628
+VT,Give Way,1
+WA,Give Way,123
+WI,Give Way,11
+WV,Give Way,20
+WY,Give Way,0
+AL,No Exit,7
+AR,No Exit,3
+AZ,No Exit,541
+CA,No Exit,621
+CO,No Exit,90
+CT,No Exit,10
+DC,No Exit,17
+DE,No Exit,9
+FL,No Exit,1280
+GA,No Exit,9
+IA,No Exit,0
+ID,No Exit,37
+IL,No Exit,125
+IN,No Exit,5
+KS,No Exit,2
+KY,No Exit,5
+LA,No Exit,16
+MA,No Exit,7
+MD,No Exit,71
+ME,No Exit,0
+MI,No Exit,61
+MN,No Exit,58
+MO,No Exit,80
+MS,No Exit,0
+MT,No Exit,1
+NC,No Exit,210
+ND,No Exit,0
+NE,No Exit,6
+NH,No Exit,0
+NJ,No Exit,37
+NM,No Exit,0
+NV,No Exit,5
+NY,No Exit,172
+OH,No Exit,4
+OK,No Exit,82
+OR,No Exit,96
+PA,No Exit,142
+RI,No Exit,0
+SC,No Exit,7
+SD,No Exit,1
+TN,No Exit,3
+TX,No Exit,227
+UT,No Exit,30
+VA,No Exit,97
+VT,No Exit,0
+WA,No Exit,89
+WI,No Exit,28
+WV,No Exit,3
+WY,No Exit,0
+AL,Railway,29
+AR,Railway,53
+AZ,Railway,595
+CA,Railway,7286
+CO,Railway,162
+CT,Railway,59
+DC,Railway,197
+DE,Railway,43
+FL,Railway,2145
+GA,Railway,208
+IA,Railway,26
+ID,Railway,39
+IL,Railway,1273
+IN,Railway,52
+KS,Railway,28
+KY,Railway,18
+LA,Railway,1506
+MA,Railway,76
+MD,Railway,247
+ME,Railway,1
+MI,Railway,132
+MN,Railway,285
+MO,Railway,123
+MS,Railway,4
+MT,Railway,109
+NC,Railway,936
+ND,Railway,3
+NE,Railway,10
+NH,Railway,2
+NJ,Railway,274
+NM,Railway,5
+NV,Railway,10
+NY,Railway,917
+OH,Railway,82
+OK,Railway,63
+OR,Railway,1642
+PA,Railway,785
+RI,Railway,11
+SC,Railway,807
+SD,Railway,3
+TN,Railway,264
+TX,Railway,991
+UT,Railway,213
+VA,Railway,405
+VT,Railway,0
+WA,Railway,431
+WI,Railway,24
+WV,Railway,57
+WY,Railway,0
+AL,Roundabout,3
+AR,Roundabout,0
+AZ,Roundabout,4
+CA,Roundabout,29
+CO,Roundabout,0
+CT,Roundabout,0
+DC,Roundabout,0
+DE,Roundabout,0
+FL,Roundabout,48
+GA,Roundabout,0
+IA,Roundabout,0
+ID,Roundabout,0
+IL,Roundabout,3
+IN,Roundabout,0
+KS,Roundabout,0
+KY,Roundabout,0
+LA,Roundabout,0
+MA,Roundabout,0
+MD,Roundabout,0
+ME,Roundabout,3
+MI,Roundabout,2
+MN,Roundabout,3
+MO,Roundabout,0
+MS,Roundabout,0
+MT,Roundabout,1
+NC,Roundabout,0
+ND,Roundabout,0
+NE,Roundabout,0
+NH,Roundabout,0
+NJ,Roundabout,0
+NM,Roundabout,0
+NV,Roundabout,0
+NY,Roundabout,1
+OH,Roundabout,1
+OK,Roundabout,0
+OR,Roundabout,0
+PA,Roundabout,0
+RI,Roundabout,0
+SC,Roundabout,1
+SD,Roundabout,0
+TN,Roundabout,4
+TX,Roundabout,7
+UT,Roundabout,2
+VA,Roundabout,3
+VT,Roundabout,0
+WA,Roundabout,8
+WI,Roundabout,0
+WV,Roundabout,0
+WY,Roundabout,0
+AL,Station,76
+AR,Station,5
+AZ,Station,1484
+CA,Station,13542
+CO,Station,158
+CT,Station,16
+DC,Station,363
+DE,Station,9
+FL,Station,31750
+GA,Station,15
+IA,Station,5
+ID,Station,147
+IL,Station,2490
+IN,Station,24
+KS,Station,1
+KY,Station,303
+LA,Station,603
+MA,Station,208
+MD,Station,1046
+ME,Station,1
+MI,Station,236
+MN,Station,987
+MO,Station,459
+MS,Station,7
+MT,Station,24
+NC,Station,2188
+ND,Station,0
+NE,Station,6
+NH,Station,0
+NJ,Station,401
+NM,Station,4
+NV,Station,38
+NY,Station,1934
+OH,Station,504
+OK,Station,356
+OR,Station,2043
+PA,Station,737
+RI,Station,0
+SC,Station,293
+SD,Station,0
+TN,Station,554
+TX,Station,1220
+UT,Station,1519
+VA,Station,1010
+VT,Station,0
+WA,Station,1194
+WI,Station,33
+WV,Station,2
+WY,Station,0
+AL,Stop,108
+AR,Stop,23
+AZ,Stop,3647
+CA,Stop,19756
+CO,Stop,422
+CT,Stop,134
+DC,Stop,142
+DE,Stop,51
+FL,Stop,3003
+GA,Stop,232
+IA,Stop,90
+ID,Stop,150
+IL,Stop,824
+IN,Stop,52
+KS,Stop,42
+KY,Stop,31
+LA,Stop,64
+MA,Stop,28
+MD,Stop,509
+ME,Stop,4
+MI,Stop,98
+MN,Stop,1750
+MO,Stop,84
+MS,Stop,67
+MT,Stop,19
+NC,Stop,1134
+ND,Stop,30
+NE,Stop,59
+NH,Stop,31
+NJ,Stop,113
+NM,Stop,15
+NV,Stop,65
+NY,Stop,2119
+OH,Stop,155
+OK,Stop,1371
+OR,Stop,1894
+PA,Stop,4151
+RI,Stop,1
+SC,Stop,2267
+SD,Stop,1
+TN,Stop,204
+TX,Stop,3425
+UT,Stop,498
+VA,Stop,884
+VT,Stop,3
+WA,Stop,514
+WI,Stop,98
+WV,Stop,36
+WY,Stop,2
+AL,Traffic Calming,1
+AR,Traffic Calming,0
+AZ,Traffic Calming,292
+CA,Traffic Calming,528
+CO,Traffic Calming,4
+CT,Traffic Calming,0
+DC,Traffic Calming,4
+DE,Traffic Calming,0
+FL,Traffic Calming,223
+GA,Traffic Calming,1
+IA,Traffic Calming,0
+ID,Traffic Calming,0
+IL,Traffic Calming,3
+IN,Traffic Calming,6
+KS,Traffic Calming,0
+KY,Traffic Calming,0
+LA,Traffic Calming,0
+MA,Traffic Calming,1
+MD,Traffic Calming,186
+ME,Traffic Calming,0
+MI,Traffic Calming,1
+MN,Traffic Calming,0
+MO,Traffic Calming,0
+MS,Traffic Calming,0
+MT,Traffic Calming,1
+NC,Traffic Calming,52
+ND,Traffic Calming,0
+NE,Traffic Calming,0
+NH,Traffic Calming,2
+NJ,Traffic Calming,4
+NM,Traffic Calming,0
+NV,Traffic Calming,0
+NY,Traffic Calming,19
+OH,Traffic Calming,6
+OK,Traffic Calming,28
+OR,Traffic Calming,98
+PA,Traffic Calming,31
+RI,Traffic Calming,0
+SC,Traffic Calming,4
+SD,Traffic Calming,0
+TN,Traffic Calming,24
+TX,Traffic Calming,115
+UT,Traffic Calming,1
+VA,Traffic Calming,20
+VT,Traffic Calming,0
+WA,Traffic Calming,49
+WI,Traffic Calming,8
+WV,Traffic Calming,0
+WY,Traffic Calming,0
+AL,Traffic Signal,1371
+AR,Traffic Signal,253
+AZ,Traffic Signal,12338
+CA,Traffic Signal,51999
+CO,Traffic Signal,2092
+CT,Traffic Signal,504
+DC,Traffic Signal,1911
+DE,Traffic Signal,590
+FL,Traffic Signal,52801
+GA,Traffic Signal,1724
+IA,Traffic Signal,329
+ID,Traffic Signal,831
+IL,Traffic Signal,12215
+IN,Traffic Signal,806
+KS,Traffic Signal,183
+KY,Traffic Signal,856
+LA,Traffic Signal,4457
+MA,Traffic Signal,457
+MD,Traffic Signal,5981
+ME,Traffic Signal,17
+MI,Traffic Signal,2723
+MN,Traffic Signal,4647
+MO,Traffic Signal,1971
+MS,Traffic Signal,292
+MT,Traffic Signal,219
+NC,Traffic Signal,16231
+ND,Traffic Signal,27
+NE,Traffic Signal,365
+NH,Traffic Signal,55
+NJ,Traffic Signal,3808
+NM,Traffic Signal,96
+NV,Traffic Signal,934
+NY,Traffic Signal,12316
+OH,Traffic Signal,3284
+OK,Traffic Signal,2860
+OR,Traffic Signal,5004
+PA,Traffic Signal,11756
+RI,Traffic Signal,91
+SC,Traffic Signal,5746
+SD,Traffic Signal,32
+TN,Traffic Signal,3414
+TX,Traffic Signal,18574
+UT,Traffic Signal,4755
+VA,Traffic Signal,10799
+VT,Traffic Signal,5
+WA,Traffic Signal,2856
+WI,Traffic Signal,403
+WV,Traffic Signal,280
+WY,Traffic Signal,5
+AL,Number,19322
+AR,Number,10935
+AZ,Number,56504
+CA,Number,795868
+CO,Number,25340
+CT,Number,29762
+DC,Number,9133
+DE,Number,4842
+FL,Number,401388
+GA,Number,40086
+IA,Number,9607
+ID,Number,8544
+IL,Number,47105
+IN,Number,20850
+KS,Number,9033
+KY,Number,6638
+LA,Number,47232
+MA,Number,6392
+MD,Number,65085
+ME,Number,2193
+MI,Number,43843
+MN,Number,97185
+MO,Number,29633
+MS,Number,5320
+MT,Number,15964
+NC,Number,91362
+ND,Number,2258
+NE,Number,3320
+NH,Number,3866
+NJ,Number,52902
+NM,Number,2370
+NV,Number,6197
+NY,Number,108049
+OH,Number,24409
+OK,Number,8806
+OR,Number,126341
+PA,Number,99975
+RI,Number,4451
+SC,Number,89216
+SD,Number,201
+TN,Number,52613
+TX,Number,149037
+UT,Number,49193
+VA,Number,113535
+VT,Number,365
+WA,Number,32554
+WI,Number,7896
+WV,Number,7632
+WY,Number,990
+AL,Cars,2035376
+AR,Cars,872437
+AZ,Cars,2410018
+CA,Cars,14201400
+CO,Cars,1639028
+CT,Cars,1211171
+DC,Cars,210297
+DE,Cars,415915
+FL,Cars,7841553
+GA,Cars,3495421
+IA,Cars,1163751
+ID,Cars,588362
+IL,Cars,4161655
+IN,Cars,2123748
+KS,Cars,889083
+KY,Cars,1644497
+LA,Cars,1315691
+MA,Cars,2003373
+MD,Cars,1823553
+ME,Cars,356079
+MI,Cars,2691704
+MN,Cars,1841690
+MO,Cars,1991376
+MS,Cars,788425
+MT,Cars,459081
+NC,Cars,3398470
+ND,Cars,215654
+NE,Cars,624907
+NH,Cars,460825
+NJ,Cars,2541125
+NM,Cars,623955
+NV,Cars,1027503
+NY,Cars,4232748
+OH,Cars,4247843
+OK,Cars,1223848
+OR,Cars,1440848
+PA,Cars,4043715
+RI,Cars,381767
+SC,Cars,1767348
+SD,Cars,325001
+TN,Cars,2115632
+TX,Cars,8088058
+UT,Cars,902723
+VA,Cars,3057254
+VT,Cars,193407
+WA,Cars,2800370
+WI,Cars,1901497
+WV,Cars,508663
+WY,Cars,191332
